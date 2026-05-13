@@ -6,7 +6,7 @@
 - **RAM**: 32 GB
 - **GPU**: RTX 4060 Ti 8 GB (não utilizada nesta análise, o foco é CPU/OpenMP)
 - **SO**: Windows 11 Pro (64 bits)
-- **Compilador**: GCC (via WSL / MinGW / outro, conforme ambiente)
+- **Compilador**: GCC nativo instalado via cygwin
 
 ## Compilar
 
