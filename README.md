@@ -1,7 +1,12 @@
-README corrigido (mais básico ainda):
-markdown
-
 # KNN com OpenMP
+
+## 🖥️ Ambiente de Execução
+
+- **CPU**: Intel Core i5‑12400F (12ª geração, 2.50 GHz)
+- **RAM**: 32 GB
+- **GPU**: RTX 4060 Ti 8 GB (não utilizada nesta análise, o foco é CPU/OpenMP)
+- **SO**: Windows 11 Pro (64 bits)
+- **Compilador**: GCC (via WSL / MinGW / outro, conforme ambiente)
 
 ## Compilar
 
